@@ -1,0 +1,9 @@
+export { default as StyledBtn } from './StyledBtn';
+export { default as StyledContainer } from './StyledContainer';
+export { default as StyledContent } from './StyledContent';
+export { default as StyledDate } from './StyledDate';
+export { default as StyledPublication } from './StyledPublication';
+export { default as StyledPublisher } from './StyledPublisher';
+export { default as StyledSeparation } from './StyledSeparation';
+export { default as StyledTitle } from './StyledTitle';
+export { default as StyledModal } from './StyledModal';

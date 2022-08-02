@@ -1,0 +1,11 @@
+export { default as StyledWrapper } from './StyledWrapper';
+export { default as StyledContainer } from './StyledContainer';
+export { default as StyledDescription } from './StyledDescription';
+export { default as StyledDotIcon } from './StyledDotIcon';
+export { default as StyledImage } from './StyledImage';
+export { default as StyledMain } from './StyledMain';
+export { default as StyledNewspaperName } from './StyledNewspaperName';
+export { default as StyledTime } from './StyledTime';
+export { default as StyledTitle } from './StyledTitle';
+export { default as StyledFooter } from './StyledFooter';
+export { default as StyledImg } from './StyledImg';
