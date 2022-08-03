@@ -24,6 +24,7 @@ const News: React.FC<Props> = ({ newsItems, getNews }) => {
 
 	useEffect(() => {
 		getNews(page, token);
+		// eslint-disable-next-line
 	}, []);
 
 	useEffect(() => {
@@ -39,6 +40,7 @@ const News: React.FC<Props> = ({ newsItems, getNews }) => {
 				setCurrentNews(data);
 			});
 		}
+		// eslint-disable-next-line
 	}, [newsId]);
 
 	const showModal = (id: any) => {
